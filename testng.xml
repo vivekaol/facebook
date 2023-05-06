@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+<suite name = "Suite"> 
+<test name = "Page Object Model Project"> 
+    <classes> 
+            <class name = "com.facebook.tests.TestBase" /> 
+    </classes> 
+</test> <!-- Page Object Model Project --> 
+</suite> <!-- Suite -->
